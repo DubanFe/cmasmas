@@ -956,6 +956,177 @@ main()
 							contan=contan+1;
 						}
 			break;
+					cout<<"11.¿Qué comando se utiliza para eliminar una tabla en SQL?"<<endl;
+					cout<<"a) REMOVE TABLE."<<endl;
+					cout<<"b) DELETE TABLE."<<endl;
+					cout<<"c) DROP TABLE."<<endl;
+					cout<<"dd) ERASE TABLE"<<endl;
+					cin>>respuesta;
+
+				    if(respuesta=='c')
+						{
+					  		cout<<"la respuesta es correcta"<<endl;
+					  		contap=contap+1;
+				    	}
+					else
+						{
+							cout<<"La respuesta es incorrecta"<<endl; 
+							contan=contan+1;
+						}	 
+					cout<<"12.¿Cuál es la función del operador AND en una cláusula WHERE en SQL?"<<endl;
+					cout<<"a) Devolver registros que cumplan una u otra condición."<<endl;
+					cout<<"b) Devolver registros que cumplan ambas condiciones."<<endl;
+					cout<<"c) Devolver registros que no cumplan ninguna condición."<<endl;
+					cout<<"d) Devolver registros que no cumplan con una u otra condición."<<endl;
+					cin>>respuesta;
+
+				    if(respuesta=='b')
+						{
+					  		cout<<"la respuesta es correcta"<<endl;
+					  		contap=contap+1;
+				    	}
+					else
+						{
+							cout<<"La respuesta es incorrecta"<<endl; 
+							contan=contan+1;
+						}	
+					cout<<"13.¿Cuál es la función del operador OR en una cláusula WHERE en SQL?"<<endl;
+					cout<<"a) Devolver registros que cumplan una u otra condición."<<endl;
+					cout<<"b) Devolver registros que cumplan ambas condiciones."<<endl;
+					cout<<"c) Devolver registros que no cumplan ninguna condición."<<endl;
+					cout<<"d) Devolver registros que no cumplan con una u otra condicion."<<endl;
+					cin>>respuesta;
+
+				    if(respuesta=='a')
+						{
+					  		cout<<"la respuesta es correcta"<<endl;
+					  		contap=contap+1;
+				    	}
+					else
+						{
+							cout<<"La respuesta es incorrecta"<<endl; 
+							contan=contan+1;
+						}	
+					cout<<"14.¿Qué comando se utiliza para renombrar una tabla en SQL?"<<endl;
+					cout<<"a) NAME TABLE."<<endl;
+					cout<<"b) RENAME TABLE."<<endl;
+					cout<<"c) ALTER TABLE."<<endl;
+					cout<<"d) ADD TABLE."<<endl;
+					cin>>respuesta;
+
+				    if(respuesta=='b')
+						{
+					  		cout<<"la respuesta es correcta"<<endl;
+					  		contap=contap+1;
+				    	}
+					else
+						{
+							cout<<"La respuesta es incorrecta"<<endl; 
+							contan=contan+1;
+						}
+					cout<<"15.¿Qué comando se utiliza para eliminar una base de datos en SQL?"<<endl;
+					cout<<"a) REMOVE DATABASE."<<endl;
+					cout<<"b) DELETE DATABASE."<<endl;
+					cout<<"c) DROP DATABASE."<<endl;
+					cout<<"d) ERASE DATABASE."<<endl;
+					cin>>respuesta;
+
+				    if(respuesta=='c')
+						{
+					  		cout<<"la respuesta es correcta"<<endl;
+					  		contap=contap+1;
+				    	}
+					else
+						{
+							cout<<"La respuesta es incorrecta"<<endl; 
+							contan=contan+1;
+						}
+					cout<<"16.¿Cuál es la función del operador LIKE en SQL?"<<endl;
+					cout<<"a) Comparar si dos valores son exactamente iguales."<<endl;
+					cout<<"b) Filtrar datos basado en una cadena específica."<<endl;
+					cout<<"c) Realizar operaciones matemáticas."<<endl;
+					cout<<"d) Ordenar datos de una cadena especifica."<<endl;
+					cin>>respuesta;
+
+				    if(respuesta=='b')
+						{
+					  		cout<<"la respuesta es correcta"<<endl;
+					  		contap=contap+1;
+				    	}
+					else
+						{
+							cout<<"La respuesta es incorrecta"<<endl; 
+							contan=contan+1;
+						}
+					cout<<"17.¿Qué comando se utiliza para realizar una copia de seguridad de una base de datos en SQL?"<<endl;
+					cout<<"a)DUPLICATE."<<endl;
+					cout<<"b) SAVE."<<endl;
+					cout<<"c) COPY."<<endl;
+					cout<<"d)BACKUP."<<endl;
+					cin>>respuesta;
+
+				    if(respuesta=='d')
+						{
+					  		cout<<"la respuesta es correcta"<<endl;
+					  		contap=contap+1;
+				    	}
+					else
+						{
+							cout<<"La respuesta es incorrecta"<<endl; 
+							contan=contan+1;
+						}
+					cout<<"18.¿Cuál es la función del operador IN en SQL?"<<endl;
+					cout<<"a) Determina si el valor de una expresión es igual a uno de varios valores en una lista especificada."<<endl;
+					cout<<"b) Realizar una unión entre dos tablas especificas."<<endl;
+					cout<<"c) Ordenar datos de una lista especifica."<<endl;
+					cout<<"d) Ingresar datos de una tabla determinada a otra."<<endl;
+					cin>>respuesta;
+
+				    if(respuesta=='a')
+						{
+					  		cout<<"la respuesta es correcta"<<endl;
+					  		contap=contap+1;
+				    	}
+					else
+						{
+							cout<<"La respuesta es incorrecta"<<endl; 
+							contan=contan+1;
+						}
+					cout<<"19.¿Qué comando se utiliza para agregar una columna a una tabla en SQL?"<<endl;
+					cout<<"a) MODIFY COLUMN."<<endl;
+					cout<<"b) ADD COLUMN."<<endl;
+					cout<<"c) ALTER COLUMN."<<endl;
+					cout<<"d) INSERT COLUMN."<<endl;
+					cin>>respuesta;
+
+				    if(respuesta=='b')
+						{
+					  		cout<<"la respuesta es correcta"<<endl;
+					  		contap=contap+1;
+				    	}
+					else
+						{
+							cout<<"La respuesta es incorrecta"<<endl; 
+							contan=contan+1;
+						}
+					cout<<"20.¿Cuál es la función del operador NOT en SQL? "<<endl;
+					cout<<"a) Devolver registros que cumplan una condición negada."<<endl;
+					cout<<"b) Devolver registros que cumplan una condición positiva."<<endl;
+					cout<<"c) Realizar una operación lógica."<<endl;
+					cout<<"d) Ninguna."<<endl;
+					cin>>respuesta;
+
+				    if(respuesta=='a')
+						{
+					  		cout<<"la respuesta es correcta"<<endl;
+					  		contap=contap+1;
+				    	}
+					else
+						{
+							cout<<"La respuesta es incorrecta"<<endl; 
+							contan=contan+1;
+						}
+			break;
 			case 7: 
 					cout<<"CREAR COMPONENTES FRONT-END"<<endl; 
 					cout<<"1-¿cuales son los tres pilares principales de la ciberseguridad?"<<endl;
